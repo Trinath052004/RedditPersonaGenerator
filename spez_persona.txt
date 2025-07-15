@@ -1,0 +1,96 @@
+============================================================
+USER PERSONA: u/spez
+============================================================
+
+BASIC INFORMATION:
+Account Age: 7344 days
+Post Karma: 179717
+Comment Karma: 752168
+Total Posts: 12
+Total Comments: 63
+Active Subreddits: 11
+
+INTERESTS:
+• Active in r/ModSupport
+• Active in r/modnews
+• Active in r/u_spez
+• Active in r/Snoo
+• Active in r/ideasfortheadmins
+
+PERSONALITY TRAITS:
+• Balanced emotional expression
+
+ACTIVITY PATTERNS:
+• Most active around 1:00
+• Most active on Saturdays
+• Posted 5 times in the last 30 days
+
+EXPERTISE AREAS:
+
+TOP SUBREDDITS:
+• r/ModSupport: 29 posts/comments
+• r/modnews: 17 posts/comments
+• r/u_spez: 6 posts/comments
+• r/Snoo: 5 posts/comments
+• r/ideasfortheadmins: 5 posts/comments
+
+============================================================
+CITATIONS AND EVIDENCE
+============================================================
+
+INTERESTS:
+----------------------------------------
+Characteristic: Active in r/ModSupport
+Evidence:
+  • Post: 'I hear the feedback on CSS / styles. I’m traveling' (https://reddit.com/r/ModSupport/comments/693zcq/i_hear_the_feedback_on_css_styles_im_traveling/)
+  • Post: 'A New Challenger Appears!' (https://reddit.com/r/ModSupport/comments/4iwobz/a_new_challenger_appears/)
+  • Post: 'Admin released from captivity, reintroduced to Red' (https://reddit.com/r/ModSupport/comments/4hwe15/admin_released_from_captivity_reintroduced_to/)
+
+Characteristic: Active in r/modnews
+Evidence:
+  • Post: 'Today we’re testing a new way to discuss political' (https://reddit.com/r/modnews/comments/ipiung/today_were_testing_a_new_way_to_discuss_political/)
+  • Post: 'Reddit is ProCSS' (https://reddit.com/r/modnews/comments/6auyq9/reddit_is_procss/)
+  • Post: 'The web redesign, CSS, and mod tools' (https://reddit.com/r/modnews/comments/66q4is/the_web_redesign_css_and_mod_tools/)
+
+Characteristic: Active in r/u_spez
+Evidence:
+  • Post: 'Reddit’s next chapter: smarter, easier, still huma' (https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/)
+  • Comment: 'Regulation: We do our best to advocate for good In' (https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqswhj2/)
+  • Comment: 'Reddit Answers is not a replacement for conversati' (https://reddit.com/r/u_spez/comments/1kfciml/reddits_next_chapter_smarter_easier_still_human/mqsskka/)
+
+Characteristic: Active in r/Snoo
+Evidence:
+  • Post: 'Best Snoo I could do.' (https://reddit.com/r/Snoo/comments/1lq0zjs/best_snoo_i_could_do/)
+  • Comment: 'There's a message for all of us in this one.' (https://reddit.com/r/Snoo/comments/1ll8ago/snoo_first_try/mzyss3f/)
+  • Comment: 'TFW you open Reddit at 3am.' (https://reddit.com/r/Snoo/comments/1ljn3d7/snoo_found_you/mzqqmaw/)
+
+Characteristic: Active in r/ideasfortheadmins
+Evidence:
+  • Comment: 'This will be added to our next app release!' (https://reddit.com/r/ideasfortheadmins/comments/1kxyjfm/add_oldest_sorting_option_for_posts/mvtr8hj/)
+  • Comment: 'I'd want all admins. 
+
+I think one of the best mis' (https://reddit.com/r/ideasfortheadmins/comments/ipjfsv/admins_are_testing_a_new_announcement_feature_to/g4l3src/)
+  • Comment: 'Totally agree. We started with simple to try out t' (https://reddit.com/r/ideasfortheadmins/comments/ipjfsv/admins_are_testing_a_new_announcement_feature_to/g4klncz/)
+
+PERSONALITY TRAITS:
+----------------------------------------
+Characteristic: Balanced emotional expression
+Evidence:
+
+ACTIVITY PATTERNS:
+----------------------------------------
+Characteristic: Most active around 1:00
+Evidence:
+  • Based on analysis of 75 posts and comments
+
+Characteristic: Most active on Saturdays
+Evidence:
+  • Based on analysis of 75 posts and comments
+
+Characteristic: Posted 5 times in the last 30 days
+Evidence:
+  • Based on analysis of 75 posts and comments
+
+EXPERTISE AREAS:
+----------------------------------------
+
