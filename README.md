@@ -100,6 +100,8 @@ README.md                     # This file
 sample_outputs/               # Example persona files
 ├── kojied_persona.txt
 └── Hungry-Move-6603_persona.txt
+└── spez_persona.txt
+
 ```
 
 ## Dependencies
