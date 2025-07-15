@@ -51,7 +51,7 @@ python reddit_persona_generator.py
 
 2. Enter a Reddit profile URL when prompted:
    - Example: `https://www.reddit.com/user/spez`
-   - Example: `https://www.reddit.com/u/username`
+   - Example: `https://www.reddit.com/user/username`
 
 3. The script will:
    - Scrape the user's recent posts and comments
