@@ -93,7 +93,7 @@ The repository includes sample persona files for the provided test users:
 ## Code Structure
 
 ```
-reddit_persona_generator.py    # Main script
+persona_generator.py    # Main script
 requirements.txt               # Python dependencies
 .env                          # API credentials (not included)
 README.md                     # This file
