@@ -1,5 +1,5 @@
 ============================================================
-USER PERSONA: u/Hungry-Move-6603
+USER PERSONA: u/Hungry-move-6603
 ============================================================
 
 BASIC INFORMATION:
@@ -7,15 +7,15 @@ Account Age: 1561 days
 Post Karma: 117
 Comment Karma: 29
 Total Posts: 3
-Total Comments: 11
-Active Subreddits: 5
+Total Comments: 12
+Active Subreddits: 6
 
 INTERESTS:
 • Active in r/lucknow
 • Active in r/nagpur
+• Active in r/delhi
 • Active in r/IndiaUnfilter
 • Active in r/indiasocial
-• Active in r/amiugly
 
 PERSONALITY TRAITS:
 • Balanced emotional expression
@@ -23,16 +23,16 @@ PERSONALITY TRAITS:
 ACTIVITY PATTERNS:
 • Most active around 10:00
 • Most active on Fridays
-• Posted 13 times in the last 30 days
+• Posted 14 times in the last 30 days
 
 EXPERTISE AREAS:
 
 TOP SUBREDDITS:
 • r/lucknow: 9 posts/comments
 • r/nagpur: 2 posts/comments
+• r/delhi: 1 posts/comments
 • r/IndiaUnfilter: 1 posts/comments
 • r/indiasocial: 1 posts/comments
-• r/amiugly: 1 posts/comments
 
 ============================================================
 CITATIONS AND EVIDENCE
@@ -44,46 +44,43 @@ Characteristic: Active in r/lucknow
 Evidence:
   • Post: 'Reading Cafe / Reader' Club?' (https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/)
   • Post: 'Productive weekend activities in LKO?' (https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/)
-  • Comment in r/lucknow (https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/)
+  • Post: 'Everyone is something in LKO' (https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/)
 
 Characteristic: Active in r/nagpur
 Evidence:
-  • Comment in r/nagpur (https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/)
-  • Comment in r/nagpur (https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/)
+  • Comment: 'I was caught without helmet and license (close to ' (https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/)
+  • Comment: 'Cops keep a civ around to discuss bribes.' (https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/)
+
+Characteristic: Active in r/delhi
+Evidence:
+  • Comment: 'Scam.' (https://reddit.com/r/delhi/comments/1lzqlj2/real_hiring_or_something_fishy/n3902xk/)
 
 Characteristic: Active in r/IndiaUnfilter
 Evidence:
-  • Comment in r/IndiaUnfilter (https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/)
+  • Comment: 'Toh hum Noida or Ghaziabad se pahadio ko bhagana s' (https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/)
 
 Characteristic: Active in r/indiasocial
 Evidence:
-  • Comment in r/indiasocial (https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/)
-
-Characteristic: Active in r/amiugly
-Evidence:
-  • Comment in r/amiugly (https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/)
-
+  • Comment: 'Dont you have big muscle brothers or friends? or c' (https://reddit.com/r/indiasocial/comments/1lwl70s/a_45_year_old_man_is_harassing_me/n2hx8z7/)
 
 PERSONALITY TRAITS:
 ----------------------------------------
 Characteristic: Balanced emotional expression
 Evidence:
 
-
 ACTIVITY PATTERNS:
 ----------------------------------------
 Characteristic: Most active around 10:00
 Evidence:
-  • Based on analysis of 14 posts and comments
+  • Based on analysis of 15 posts and comments
 
 Characteristic: Most active on Fridays
 Evidence:
-  • Based on analysis of 14 posts and comments
+  • Based on analysis of 15 posts and comments
 
-Characteristic: Posted 13 times in the last 30 days
+Characteristic: Posted 14 times in the last 30 days
 Evidence:
-  • Based on analysis of 14 posts and comments
-
+  • Based on analysis of 15 posts and comments
 
 EXPERTISE AREAS:
 ----------------------------------------
