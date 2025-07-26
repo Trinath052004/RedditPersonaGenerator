@@ -44,7 +44,7 @@ REDDIT_USER_AGENT=PersonaGenerator/1.0
 
 ## Usage
 
-1. Run the script:
+1. Run the 
 ```bash
 python reddit_persona_generator.py
 ```
