@@ -1,5 +1,4 @@
-# Note
-Trinath1405 and Trinath052004 both accounts belong to me.
+
 # Reddit User Persona Generator
 
 A Python script that scrapes Reddit user data, analyzes posting patterns, and generates comprehensive user personas with detailed citations.
